@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+using namespace std;
 int mod;
   long long  solve(int x, int n,map<int,long long>&m1 ){
        if(n==0)
